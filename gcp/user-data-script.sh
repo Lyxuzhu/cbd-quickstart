@@ -1,4 +1,4 @@
-
+#我是来学习的，我就是在这里做一下注释
 #!/bin/bash
 
 set -eo pipefail
